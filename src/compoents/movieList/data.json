@@ -1,0 +1,431 @@
+ [
+    {
+        "adult": false,
+        "backdrop_path": "/wybmSmviUXxlBmX44gtpow5Y9TB.jpg",
+        "id": 594767,
+        "title": "Shazam! Fury of the Gods",
+        "original_language": "en",
+        "original_title": "Shazam! Fury of the Gods",
+        "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+        "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            35,
+            14
+        ],
+        "popularity": 5827.392,
+        "release_date": "2023-03-15",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 753
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eSVu1FvGPy86TDo4hQbpuHx55DJ.jpg",
+        "id": 700391,
+        "title": "65",
+        "original_language": "en",
+        "original_title": "65",
+        "overview": "65 million years ago, the only 2 survivors of a spaceship from Somaris that crash-landed on Earth must fend off dinosaurs and reach the escape vessel in time before an imminent asteroid strike threatens to destroy the planet.",
+        "poster_path": "/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            878,
+            12,
+            53,
+            28
+        ],
+        "popularity": 1918.606,
+        "release_date": "2023-03-02",
+        "video": false,
+        "vote_average": 6.348,
+        "vote_count": 450
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+        "id": 85937,
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "original_language": "ja",
+        "original_name": "鬼滅の刃",
+        "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+        "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            16,
+            10759,
+            10765
+        ],
+        "popularity": 330.718,
+        "first_air_date": "2019-04-06",
+        "vote_average": 8.701,
+        "vote_count": 4996,
+        "origin_country": [
+            "JP"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "id": 502356,
+        "title": "The Super Mario Bros. Movie",
+        "original_language": "en",
+        "original_title": "The Super Mario Bros. Movie",
+        "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            14,
+            35
+        ],
+        "popularity": 9065.306,
+        "release_date": "2023-04-05",
+        "video": false,
+        "vote_average": 7.51,
+        "vote_count": 667
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ytdebEE0ndYLSTEctPgh8e0vaBs.jpg",
+        "id": 76600,
+        "title": "Avatar: The Way of Water",
+        "original_language": "en",
+        "original_title": "Avatar: The Way of Water",
+        "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "popularity": 4810.649,
+        "release_date": "2022-12-14",
+        "video": false,
+        "vote_average": 7.742,
+        "vote_count": 6970
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "id": 82856,
+        "name": "The Mandalorian",
+        "original_language": "en",
+        "original_name": "The Mandalorian",
+        "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+        "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            10765,
+            10759,
+            18
+        ],
+        "popularity": 1590.982,
+        "first_air_date": "2019-11-12",
+        "vote_average": 8.487,
+        "vote_count": 8779,
+        "origin_country": [
+            "US"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i8dshLvq4LE3s0v8PrkDdUyb1ae.jpg",
+        "id": 603692,
+        "title": "John Wick: Chapter 4",
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "popularity": 1840.121,
+        "release_date": "2023-03-22",
+        "video": false,
+        "vote_average": 8.004,
+        "vote_count": 984
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
+        "id": 640146,
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "original_language": "en",
+        "original_title": "Ant-Man and the Wasp: Quantumania",
+        "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+        "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "popularity": 855.543,
+        "release_date": "2023-02-15",
+        "video": false,
+        "vote_average": 6.309,
+        "vote_count": 1238
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
+        "id": 203737,
+        "name": "Oshi no Ko",
+        "original_language": "ja",
+        "original_name": "【推しの子】",
+        "overview": "Dr. Goro is reborn as the son of the young starlet Ai Hoshino after her delusional stalker murders him. Now, he wants to help his new mother rise to the top, but what can a child do about the dark underbelly of the entertainment industry?",
+        "poster_path": "/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            16,
+            18
+        ],
+        "popularity": 58.769,
+        "first_air_date": "2023-04-12",
+        "vote_average": 9.0,
+        "vote_count": 3,
+        "origin_country": [
+            "JP"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aityu1Gma509jInlspHstEt8Jg0.jpg",
+        "id": 736790,
+        "title": "Chupa",
+        "original_language": "en",
+        "original_title": "Chupa",
+        "overview": "While visiting family in Mexico, a lonely boy befriends a mythical creature hiding on his grandfather's ranch and embarks on the adventure of a lifetime.",
+        "poster_path": "/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            12,
+            14,
+            10751
+        ],
+        "popularity": 378.321,
+        "release_date": "2023-04-07",
+        "video": false,
+        "vote_average": 6.388,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/59ixovemfBsBF0dL3IJ6JuULf57.jpg",
+        "id": 123856,
+        "name": "Florida Man",
+        "original_language": "en",
+        "original_name": "Florida Man",
+        "overview": "A disgraced cop in debt is forced to return to his home state of Florida for a shady mission only to get swept up in a wild — and deadly — treasure hunt.",
+        "poster_path": "/glBhGGe2LJIMkDGz2Vx7lC9eMEr.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "popularity": 40.776,
+        "first_air_date": "2023-04-13",
+        "vote_average": 6.0,
+        "vote_count": 2,
+        "origin_country": [
+            "US"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q7K0YVviGElm0xI68g9F6aF9U79.jpg",
+        "id": 223313,
+        "name": "Obsession",
+        "original_language": "en",
+        "original_name": "Obsession",
+        "overview": "A respected London surgeon's affair with his son's fiancée turns into an erotic infatuation that threatens to change their lives forever.",
+        "poster_path": "/8nQmxCYvidrCMxYCPdhuls94cl9.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "popularity": 45.507,
+        "first_air_date": "2023-04-13",
+        "vote_average": 8.0,
+        "vote_count": 3,
+        "origin_country": [
+            "GB"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bLZ1WGb59JXFRYRFgknOwwiPJ0l.jpg",
+        "id": 800787,
+        "title": "A Good Person",
+        "original_language": "en",
+        "original_title": "A Good Person",
+        "overview": "Allison's life falls apart following her involvement in a fatal accident. The unlikely relationship she forms with her would-be father-in-law helps her live a life worth living.",
+        "poster_path": "/uhANhmZkXgfhF7zN8ttftAcONK6.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "popularity": 31.178,
+        "release_date": "2023-03-23",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u7OpeS4eckBSR1wFxFTuyy3FjHE.jpg",
+        "id": 154385,
+        "name": "BEEF",
+        "original_language": "en",
+        "original_name": "BEEF",
+        "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+        "poster_path": "/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "popularity": 193.274,
+        "first_air_date": "2023-04-06",
+        "vote_average": 8.5,
+        "vote_count": 45,
+        "origin_country": [
+            "US"
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7TdVWAO7vV9j1OLDq1hQJS3pb4U.jpg",
+        "id": 739405,
+        "title": "Operation Fortune: Ruse de Guerre",
+        "original_language": "en",
+        "original_title": "Operation Fortune: Ruse de Guerre",
+        "overview": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+        "poster_path": "/cOaQU5o7mznZTFb4Xs9c1QlwTze.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            35,
+            12
+        ],
+        "popularity": 200.687,
+        "release_date": "2023-01-04",
+        "video": false,
+        "vote_average": 6.643,
+        "vote_count": 429
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/umhjSTT9qDBZFJUUYQ2kVpOkQpY.jpg",
+        "id": 1067282,
+        "title": "Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-",
+        "original_language": "ja",
+        "original_title": "「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+        "overview": "After his family is viciously murdered, a kind-hearted boy named Tanjiro Kamado resolves to become a Demon Slayer in hopes of turning his younger sister Nezuko back into a human.  Together with his comrades, Zenitsu and Inosuke, along with one of the top-ranking members of the Demon Slayer Corps, Tengen Uzui, Tanjiro embarks on a mission within the Entertainment District, where they encounter the formidable, high-ranking demons, Daki and Gyutaro.",
+        "poster_path": "/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            28,
+            16,
+            14
+        ],
+        "popularity": 954.389,
+        "release_date": "2023-02-03",
+        "video": true,
+        "vote_average": 7.176,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+        "id": 677179,
+        "title": "Creed III",
+        "original_language": "en",
+        "original_title": "Creed III",
+        "overview": "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien — a fighter who has nothing to lose.",
+        "poster_path": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            18,
+            28
+        ],
+        "popularity": 5253.149,
+        "release_date": "2023-03-01",
+        "video": false,
+        "vote_average": 7.284,
+        "vote_count": 941
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m42PtAhEtEqbNV8Cs8TsXcTN4ha.jpg",
+        "id": 719256,
+        "title": "Jesus Revolution",
+        "original_language": "en",
+        "original_title": "Jesus Revolution",
+        "overview": "In the 1970s, aimless teenager Greg Laurie searches for all the right things in all the wrong places until he meets Lonnie Frisbee, a charismatic hippie/street preacher. Together with local pastor Chuck Smith, they open the doors of a languishing church to an unexpected revival.",
+        "poster_path": "/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "popularity": 50.662,
+        "release_date": "2023-02-23",
+        "video": false,
+        "vote_average": 7.063,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tFGlVxcj3YuLPtbhLRTOhyIUuzw.jpg",
+        "id": 830896,
+        "title": "The Portable Door",
+        "original_language": "en",
+        "original_title": "The Portable Door",
+        "overview": "Paul and Sophie, interns at a mysterious London firm, become steadily aware their employers Humphrey and Dennis are anything but conventional - they are disrupting the world of magic by bringing modern corporate strategy to ancient magical practices.",
+        "poster_path": "/9QhM7iYfldpxzFb51HB7w9pP4xw.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+            14,
+            12,
+            35
+        ],
+        "popularity": 125.705,
+        "release_date": "2023-03-23",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o7sCnoCchCFuhMdp3PV8v1SEX9w.jpg",
+        "id": 222314,
+        "name": "American Manhunt: The Boston Marathon Bombing",
+        "original_language": "en",
+        "original_name": "American Manhunt: The Boston Marathon Bombing",
+        "overview": "Archive footage, chilling reenactments and exclusive interviews shed new light on a tragedy — and two brothers — that suspended a city in terror.",
+        "poster_path": "/yagaaZpOgmX3cku7fgMCb4dyNeC.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+            99
+        ],
+        "popularity": 37.275,
+        "first_air_date": "2023-04-12",
+        "vote_average": 8.7,
+        "vote_count": 3,
+        "origin_country": [
+            "US"
+        ]
+    }
+]

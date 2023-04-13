@@ -1,0 +1,21 @@
+.box{
+    background-color: #fcfcfc;
+    border:1px solid  #000000;
+    border-radius: 5px ;
+    box-shadow: 2px 2px 2px #000000;
+    margin: 10px;
+    height: 800px;
+
+}
+.image{
+    width: 100%;
+    height: auto;
+}
+.info{
+    padding: 5px;
+}
+.title{
+    font-size: 24px;
+    font-weight: 500;
+    text-overflow: ellipsis;
+}
